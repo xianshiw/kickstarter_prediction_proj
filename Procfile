@@ -1,1 +1,1 @@
-web: gunicorn ks_flask:APP
+web: gunicorn kickstarter_pred:APP
